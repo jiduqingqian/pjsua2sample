@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Fri Jul 14 11:46:18 CST 2017
+2.base=/Users/qianhao/Downloads/pjproject-2.6/pjsip-apps/src/swig/java/android/app/build/intermediates/res/resources-debug.ap_
+5.file=/Users/qianhao/Downloads/pjproject-2.6/pjsip-apps/src/swig/java/android/app/build/intermediates/res/resources-debug.ap_/res/layout/dlg_add_buddy.xml
+5.set=ANDROID_RESOURCE
+3.base=/Users/qianhao/Downloads/pjproject-2.6/pjsip-apps/src/swig/java/android/app/build/intermediates/res/resources-debug.ap_
+6.file=/Users/qianhao/Downloads/pjproject-2.6/pjsip-apps/src/swig/java/android/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+2.set=ANDROID_RESOURCE
+4.base=/Users/qianhao/Downloads/pjproject-2.6/pjsip-apps/src/swig/java/android/app/build/intermediates/res/resources-debug.ap_
+7.file=/Users/qianhao/Downloads/pjproject-2.6/pjsip-apps/src/swig/java/android/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+7.set=ANDROID_RESOURCE
+count=10
+0.file=/Users/qianhao/Downloads/pjproject-2.6/pjsip-apps/src/swig/java/android/app/build/intermediates/res/resources-debug.ap_/res/menu/main.xml
+5.base=/Users/qianhao/Downloads/pjproject-2.6/pjsip-apps/src/swig/java/android/app/build/intermediates/res/resources-debug.ap_
+8.file=/Users/qianhao/Downloads/pjproject-2.6/pjsip-apps/src/swig/java/android/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+4.set=ANDROID_RESOURCE
+6.base=/Users/qianhao/Downloads/pjproject-2.6/pjsip-apps/src/swig/java/android/app/build/intermediates/res/resources-debug.ap_
+1.file=/Users/qianhao/Downloads/pjproject-2.6/pjsip-apps/src/swig/java/android/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_call.xml
+9.set=ANDROID_RESOURCE
+9.file=/Users/qianhao/Downloads/pjproject-2.6/pjsip-apps/src/swig/java/android/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+1.set=ANDROID_RESOURCE
+7.base=/Users/qianhao/Downloads/pjproject-2.6/pjsip-apps/src/swig/java/android/app/build/intermediates/res/resources-debug.ap_
+2.file=/Users/qianhao/Downloads/pjproject-2.6/pjsip-apps/src/swig/java/android/app/build/intermediates/res/resources-debug.ap_/res/drawable/bkg.xml
+6.set=ANDROID_RESOURCE
+0.base=/Users/qianhao/Downloads/pjproject-2.6/pjsip-apps/src/swig/java/android/app/build/intermediates/res/resources-debug.ap_
+8.base=/Users/qianhao/Downloads/pjproject-2.6/pjsip-apps/src/swig/java/android/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/qianhao/Downloads/pjproject-2.6/pjsip-apps/src/swig/java/android/app/build/intermediates/res/resources-debug.ap_/res/layout/dlg_account_config.xml
+3.set=ANDROID_RESOURCE
+1.base=/Users/qianhao/Downloads/pjproject-2.6/pjsip-apps/src/swig/java/android/app/build/intermediates/res/resources-debug.ap_
+9.base=/Users/qianhao/Downloads/pjproject-2.6/pjsip-apps/src/swig/java/android/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/qianhao/Downloads/pjproject-2.6/pjsip-apps/src/swig/java/android/app/build/intermediates/res/resources-debug.ap_/res/menu/call.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

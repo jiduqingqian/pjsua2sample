@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/qianhao/Downloads/pjproject-2.6/pjsip-apps/src/swig/java/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f203f01b89cabef449a9fde49b6a9677829e3380">
+        <dex dex="/Users/qianhao/Downloads/pjproject-2.6/pjsip-apps/src/swig/java/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7f7fb9e017ca34f00040bacab116f25d5ca50fd7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/qianhao/Downloads/pjproject-2.6/pjsip-apps/src/swig/java/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f0d6f50d8abc059e7bc470ee68bdc3d27dedf3b7">
+        <dex dex="/Users/qianhao/Downloads/pjproject-2.6/pjsip-apps/src/swig/java/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ac1e241aa8d13a09a928df9ab1c71d2d76569a5e/classes.dex" />
+    </item>
+
+</items>

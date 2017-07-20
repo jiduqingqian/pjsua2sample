@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/qianhao/Downloads/pjproject-2.6/pjsip-apps/src/swig/java/android/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/qianhao/Downloads/pjproject-2.6/pjsip-apps/src/swig/java/android/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/qianhao/Downloads/pjproject-2.6/pjsip-apps/src/swig/java/android/app/build/intermediates/res/merged/debug/menu/call.xml",
+        "source": "/Users/qianhao/Downloads/pjproject-2.6/pjsip-apps/src/swig/java/android/app/src/main/res/menu/call.xml"
+    }
+]

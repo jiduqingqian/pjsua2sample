@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/qianhao/Downloads/pjproject-2.6/pjsip-apps/src/swig/java/android/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/qianhao/Downloads/pjproject-2.6/pjsip-apps/src/swig/java/android/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/qianhao/Downloads/pjproject-2.6/pjsip-apps/src/swig/java/android/app/build/intermediates/res/merged/debug/layout/activity_call.xml",
+        "source": "/Users/qianhao/Downloads/pjproject-2.6/pjsip-apps/src/swig/java/android/app/src/main/res/layout/activity_call.xml"
+    },
+    {
+        "merged": "/Users/qianhao/Downloads/pjproject-2.6/pjsip-apps/src/swig/java/android/app/build/intermediates/res/merged/debug/layout/dlg_account_config.xml",
+        "source": "/Users/qianhao/Downloads/pjproject-2.6/pjsip-apps/src/swig/java/android/app/src/main/res/layout/dlg_account_config.xml"
+    },
+    {
+        "merged": "/Users/qianhao/Downloads/pjproject-2.6/pjsip-apps/src/swig/java/android/app/build/intermediates/res/merged/debug/layout/dlg_add_buddy.xml",
+        "source": "/Users/qianhao/Downloads/pjproject-2.6/pjsip-apps/src/swig/java/android/app/src/main/res/layout/dlg_add_buddy.xml"
+    }
+]
